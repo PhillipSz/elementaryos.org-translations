@@ -1,6 +1,6 @@
 <?php
 //Menu/Page items
-$lang['global_home']            = "Home";
+$lang['global_home']            = "Inicio";
 $lang['global_discover']        = "Descubrir";
 $lang['global_store']           = "Tienda";
 $lang['global_journal']         = "Blog";
@@ -14,8 +14,8 @@ $lang['global_settings']        = "Ajustes";
 
 
 //Footer
-$lang['global_changelang']      = "Cambiar lenguaje";
-$lang['global_content_license'] = "Contenido licenciado bajo:";
+$lang['global_changelang']      = "Cambiar idioma";
+$lang['global_content_license'] = "Contenido bajo licencia:";
 $lang['global_team']            = "Los Equipos";
 $lang['global_terms']           = "Términos de Uso";
 $lang['global_user_guide']      = "Guía de Usuario";
@@ -33,7 +33,7 @@ $lang['global_edtrl']           = 'Editorial';
 $lang['global_intv']            = 'Entrevistas';
 $lang['global_mini']            = 'Mini';
 $lang['global_ux']              = 'Experiencia de Usuarios';
-$lang['global_video']           = 'Video';
+$lang['global_video']           = 'Vídeo';
 
 $lang['global_team_web']        = 'Web';
 $lang['global_team_press']      = 'Prensa';
@@ -67,7 +67,7 @@ $lang['global_report']          = "Reportar";
 
 //Strings that don't need there own file, 
 // no need to put extra load on the system for one string
-$lang['global_email']           = 'Email';
+$lang['global_email']           = 'Correo';
 $lang['write_comment']          = 'Escribir un comentario';
 $lang['search_results']         = 'Resultados de la búsqueda';
 $lang['error_gohome']           = 'Ir a la página principal';
@@ -76,7 +76,7 @@ $lang['error_404_descr']        = "No se ha encontrado nada en \"%s\". Revise la
 $lang['error_403_title']        = 'No tiene permisos para ver esta página';
 $lang['error_403_descr']        = 'El acceso a esta página está restringido solamente a usuarios autorizados.';
 $lang['error_500_title']        = 'Hubo un problema abriendo la página';
-$lang['error_500_descr']        = 'Hubo un problema abriendo la página. Por favor intente nuevamente más tarde.';
+$lang['error_500_descr']        = 'Hubo un problema abriendo la página. Por favor inténtelo de nuevo más tarde.';
 $lang['forgot_password_title']  = '¿Olvidó su contraseña?';
 $lang['forgot_password_sub']    = 'Le puede suceder a cualquiera.';
 $lang['forgot_password_req']    = 'Pedir nueva
